@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">TOP 10 VIDEO JUEGOS MAS VENDIDOS</string>
+
+    <string-array name="viedojuegos">
+        <item>The Last Of Us Parte II</item>
+        <item>Super Mario Galaxy 2</item>
+        <item>Red Dead Redemption 2</item>
+        <item>Metal Gear Solid</item>
+        <item>Super Mario Odyssey</item>
+        <item>StarCraft II Heart Of The Swarm</item>
+        <item>Metal Gear Solid Peace Walker</item>
+        <item>StarCraft II Wings Of Liberty</item>
+        <item>L.A. Noire</item>
+        <item>Resident Evil 2</item>
+    </string-array>
+
+    <string-array name="descripcion">
+        <item>The Last of Us Part II es un juego de acción y aventuras de 2020 desarrollado por Naughty Dog y publicado
+            por Sony Interactive Entertainment para PlayStation 4.1​ Ambientado cinco años después de The Last of Us
+            (2013), el juego se centra en dos personajes jugables en un Estados Unidos post-apocalíptico cuyas vidas se
+            entrelazan: Ellie, que busca venganza después de sufrir una tragedia, y Abby, una soldado que se ve envuelta
+            en un conflicto entre su milicia y un culto religioso. El juego se juega desde la perspectiva de la tercera
+            persona y le permite al jugador luchar contra enemigos humanos y criaturas caníbales parecidas a zombis con
+            armas de fuego, armas improvisadas y sigilo.
+        </item>
+        <item>Super Mario Galaxy 2 (スーパーマリオギャラクシー2 Sūpā Mario Gyarakushī Tsū?) es un videojuego de plataformas
+            desarrollado por Nintendo EAD Tokio y publicado por Nintendo para su consola Wii. Fue anunciado en el E3
+            2009 y es la secuela directa de Super Mario Galaxy. Fue lanzado en Estados Unidos el 23 de mayo de 2010,7​
+            en Japón el 27 de mayo de 2010, en Europa el 11 de junio de 2010, y en Australia el 1 de julio de 2010.8​ Es
+            el cuarto juego de plataformas en 3D de la Super Mario, después de Super Mario 64, Super Mario Sunshine y
+            Super Mario Galaxy.
+        </item>
+        <item>Red Dead Redemption 2 es un videojuego de acción-aventura western, en un mundo abierto y en perspectiva de
+            primera y tercera persona,1​ con componentes para un jugador y multijugador.2​ Fue desarrollado por Rockstar
+            Games. Es la precuela de Red Dead Redemption y el tercer juego de la saga Red Dead.3​4​ Su fecha de
+            lanzamiento fue el 26 de octubre de 2018 en las consolas PlayStation 4 y Xbox One.5​ Fue lanzado en
+            Microsoft Windows el 5 de noviembre de 2019, y posteriormente lo será en Google Stadia.6​
+        </item>
+        <item>Metal Gear Solid (メタルギアソリッド Metaru Gia Soriddo?, comúnmente abreviado MGS) es un videojuego de
+            acción-aventura y sigilo de 1998 desarrollado por Konami Computer Entertainment Japan y publicado por Konami
+            para la consola PlayStation.4​5​ Fue lanzado el 3 de septiembre de 1998 en Japón,1​ el 21 de octubre de 1998
+            en Norteamérica y el 24 de junio de 1999 en Europa.2​3​ Inicialmente se había previsto su lanzamiento para
+            1994 en la consola 3DO Interactive Multiplayer, con el título «Metal Gear 3». Sin embargo, debido a la
+            disminución del apoyo para la plataforma, el desarrollo del juego fue cambiado a la PlayStation
+        </item>
+        <item>Super Mario Odyssey (スーパーマリオ オデッセイ Sūpā Mario Odessei?) es un videojuego de plataformas de mundo abierto
+            para Nintendo Switch que se lanzó en Japón y los Estados Unidos el 27 de octubre de 2017. Es el decimonoveno
+            título de la serie Super Mario y el séptimo juego de plataformas en 3D de Mario
+        </item>
+        <item>StarCraft II: Heart of the Swarm (traducido como El Corazón del Enjambre) es la una secuela y expansión
+            del juego de estrategia en tiempo real y temática militar de ciencia ficción StarCraft II: Wings of Liberty.
+            Es la segunda parte de la planeada trilogía de StarCraft II. La tercera parte se titula Legacy of the Void
+        </item>
+        <item>Metal Gear Solid: Peace Walker es un videojuego desarrollado por Kojima Productions (Konami) que salió a
+            la venta para la PSP el 8 de junio del 2010 en los Estados Unidos y 18 de junio del 2010 en Europa. El juego
+            ha sido desarrollado por el mismo equipo que desarrolló Metal Gear Solid 4, y el guion fue escrito por Hideo
+            Kojima, creador de la saga Metal Gear.
+        </item>
+        <item>StarCraft II: Wings of Liberty (traducido como Alas de libertad) es un videojuego de estrategia en tiempo
+            real desarrollado por Blizzard Entertainment para Microsoft Windows y Macintosh. Es la secuela de StarCraft
+            (1998). Fue anunciado el sábado 19 de mayo de 2007 en la convención Blizzard Worldwide Invitational
+            celebrada en Seúl, Corea del Sur. Este juego comenzó a desarrollarse en el verano de 2003, tras el
+            lanzamiento de Warcraft III: The Frozen Throne en manos de un equipo de tan solo 40 personas.
+        </item>
+        <item>L.A. Noire es un videojuego desarrollado por Team Bondi y distribuido por Rockstar Games. Anunciado en un
+            principio sólo para PlayStation 3, Rockstar reveló que finalmente también se adaptaría una versión para Xbox
+            360. Posteriormente, Rockstar Games lanzó el título para Microsoft Windows en noviembre de 2011
+        </item>
+        <item>cuyo título original en Japón es Biohazard 2 (バイオハザード2 Baiohazādo Tsū?, «Peligro biológico 2»)—b​ es un
+            videojuego de disparos en tercera persona perteneciente al género de horror de supervivencia, desarrollado y
+            publicado por Capcom, se trata de una nueva versión del videojuego homónimo de 1998.
+        </item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
